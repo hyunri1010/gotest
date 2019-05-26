@@ -4,4 +4,6 @@ func main() {
 	print("asdfsdf")
 
 	print("yuri")
+	
+/////
 }
